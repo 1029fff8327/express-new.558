@@ -1,0 +1,106 @@
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-14T20:37:13.486Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-14T20:38:22.516Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-14T20:41:58.096Z"}
+{"level":"error","timestamp":"2024-01-14T21:06:17.422Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:21:31.235Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:22:25.298Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:36:24.399Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:37:13.357Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:37:16.784Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:38:57.421Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:52:59.313Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T05:57:14.469Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:01:14.973Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:09:59.514Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:16:05.955Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:16:53.068Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:28:42.463Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:37:29.579Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"scandir","timestamp":"2024-01-15T06:46:41.133Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"open","timestamp":"2024-01-15T09:08:06.163Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\undefined","syscall":"open","timestamp":"2024-01-15T09:14:06.926Z"}
+{"level":"error","timestamp":"2024-01-15T09:23:54.471Z"}
+{"level":"error","timestamp":"2024-01-15T09:24:33.750Z"}
+{"level":"error","timestamp":"2024-01-15T09:25:00.152Z"}
+{"level":"error","timestamp":"2024-01-15T10:14:06.332Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a50662e02d637bef5dcb07","syscall":"scandir","timestamp":"2024-01-15T10:18:10.596Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a50679e02d637bef5dcb09","syscall":"scandir","timestamp":"2024-01-15T10:18:33.889Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a50691e02d637bef5dcb0b","syscall":"scandir","timestamp":"2024-01-15T10:18:57.970Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a506aae02d637bef5dcb0d","syscall":"scandir","timestamp":"2024-01-15T10:19:22.085Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a50757d70f104502046207","syscall":"scandir","timestamp":"2024-01-15T10:22:15.569Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a5091f4fbefe770b54ec3e","syscall":"scandir","timestamp":"2024-01-15T10:29:51.670Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a50eb6a82a6063d73e3afb","syscall":"scandir","timestamp":"2024-01-15T10:53:42.837Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a51768a70e4a999d5d72eb","syscall":"scandir","timestamp":"2024-01-15T11:30:48.848Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a51ba783dddcb0d448113b","syscall":"scandir","timestamp":"2024-01-15T11:48:55.655Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a59e2baa51f77f4b586b58","syscall":"scandir","timestamp":"2024-01-15T21:05:47.959Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a60dcd68b62e7e7357e20e","syscall":"scandir","timestamp":"2024-01-16T05:02:05.885Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a60e0868b62e7e7357e210","syscall":"scandir","timestamp":"2024-01-16T05:03:04.851Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a60e3b68b62e7e7357e212","syscall":"scandir","timestamp":"2024-01-16T05:03:55.910Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a6119204b566e7e7292f96","syscall":"scandir","timestamp":"2024-01-16T05:18:10.455Z"}
+{"code":"ENOTDIR","errno":-4052,"level":"error","path":"C:\\Users\\USER\\Desktop\\файловая система\\src\\data\\65a636d9a26de6037057b4ef","syscall":"scandir","timestamp":"2024-01-16T07:57:13.732Z"}
+{"level":"info","message":"End writing the file (data directory size 270135 bytes)","timestamp":"2024-01-16T08:15:57.204Z"}
+{"level":"info","message":"End writing the file (data directory size 593323 bytes)","timestamp":"2024-01-16T08:33:56.331Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T08:34:18.425Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T08:47:56.209Z"}
+{"level":"info","message":"End writing the file (data directory size 646323 bytes)","timestamp":"2024-01-16T09:13:51.138Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T09:27:57.249Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T09:37:05.187Z"}
+{"level":"info","message":"End writing the file (data directory size 458135 bytes)","timestamp":"2024-01-16T10:03:49.218Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T10:05:30.298Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T10:22:25.567Z"}
+{"level":"info","message":"End writing the file (data directory size 458135 bytes)","timestamp":"2024-01-16T10:43:21.613Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T10:55:08.246Z"}
+{"level":"info","message":"End writing the file (data directory size 458323 bytes)","timestamp":"2024-01-16T11:00:44.411Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T11:06:49.359Z"}
+{"level":"info","message":"End writing the file (data directory size 270135 bytes)","timestamp":"2024-01-16T11:24:11.266Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T11:27:01.200Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T11:36:12.815Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T11:54:13.168Z"}
+{"level":"info","message":"End writing the file (data directory size 646323 bytes)","timestamp":"2024-01-16T12:03:17.367Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T12:15:09.872Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T12:32:07.341Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T19:33:36.431Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T19:56:27.408Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T20:18:21.670Z"}
+{"level":"info","message":"End updating the file (data directory size 135 bytes)","timestamp":"2024-01-16T20:18:57.251Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T20:24:54.984Z"}
+{"level":"info","message":"End updating the file (data directory size 323 bytes)","timestamp":"2024-01-16T20:25:23.120Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T20:31:44.965Z"}
+{"level":"info","message":"End updating the file (data directory size 323 bytes)","timestamp":"2024-01-16T20:32:02.853Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-16T20:37:16.587Z"}
+{"level":"info","message":"End updating the file (data directory size 135 bytes)","timestamp":"2024-01-16T20:37:29.037Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-16T20:37:46.606Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-16T20:40:30.017Z"}
+{"level":"info","message":"End updating the file (data directory size 323 bytes)","timestamp":"2024-01-16T20:40:50.545Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-16T20:41:11.567Z"}
+{"level":"info","message":"End writing the file (data directory size 135135 bytes)","timestamp":"2024-01-17T04:50:44.034Z"}
+{"level":"info","message":"End updating the file (data directory size 323 bytes)","timestamp":"2024-01-17T04:51:10.830Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-17T04:51:57.313Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-17T04:53:10.938Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-17T05:03:19.844Z"}
+{"level":"info","message":"End updating the file (data directory size 135 bytes)","timestamp":"2024-01-17T05:03:36.849Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-17T05:04:26.143Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fs.createReadStream is not a function","timestamp":"2024-01-17T05:08:33.038Z"}
+{"level":"error","message":"Error getting file by ID (FileAdapter): fspromises.createReadStream is not a function","timestamp":"2024-01-17T05:10:01.051Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-17T05:13:44.001Z"}
+{"level":"info","message":"End updating the file (data directory size 135 bytes)","timestamp":"2024-01-17T05:14:01.939Z"}
+{"level":"info","message":"End writing the file (data directory size 323323 bytes)","timestamp":"2024-01-17T05:17:28.736Z"}
+{"level":"info","message":"End updating the file (data directory size 135 bytes)","timestamp":"2024-01-17T05:17:41.931Z"}
+{"level":"info","message":"Create file with ID 65a7687ae9595aa6056c035e (data directory size 135 bytes)","timestamp":"2024-01-17T05:41:15.004Z"}
+{"level":"info","message":"Create file with ID 65a7687ae9595aa6056c035e (data directory size 458323 bytes)","timestamp":"2024-01-17T05:41:15.021Z"}
+{"level":"info","message":"Create file with ID 65a7687ae9595aa6056c035e (data directory size 781 bytes)","timestamp":"2024-01-17T05:41:15.029Z"}
+{"level":"info","message":"Update file with ID 65a7687ae9595aa6056c035e (data directory size 323 bytes)","timestamp":"2024-01-17T05:42:07.296Z"}
+{"level":"info","message":"Update file with ID 65a7687ae9595aa6056c035e (data directory size 135 bytes)","timestamp":"2024-01-17T05:42:07.348Z"}
+{"level":"info","message":"Update file with ID 65a7687ae9595aa6056c035e (data directory size 135 bytes)","timestamp":"2024-01-17T05:42:07.352Z"}
+{"level":"info","message":"Retrieve file with ID 65a7687ae9595aa6056c035e (data directory size 135 bytes)","timestamp":"2024-01-17T05:42:36.085Z"}
+{"level":"info","message":"Retrieve file with ID 65a7687ae9595aa6056c035e (data directory size 135 bytes)","timestamp":"2024-01-17T05:42:36.096Z"}
+{"level":"info","message":"End writing the file (data directory size 458323 bytes)","timestamp":"2024-01-17T06:01:45.649Z"}
+{"level":"info","message":"End updating the file (data directory size 270 bytes)","timestamp":"2024-01-17T06:02:09.039Z"}
+{"level":"info","message":"Create file with ID 65a76e65b2eabdd7689af3a7 (data directory size 0 bytes)","timestamp":"2024-01-17T06:06:29.904Z"}
+{"level":"info","message":"Create file with ID 65a76e65b2eabdd7689af3a7 (data directory size 323323 bytes)","timestamp":"2024-01-17T06:06:29.924Z"}
+{"level":"info","message":"Create file with ID 65a76e65b2eabdd7689af3a7 (data directory size 646 bytes)","timestamp":"2024-01-17T06:06:29.926Z"}
+{"level":"info","message":"Update file with ID 65a76e65b2eabdd7689af3a7 (data directory size 323 bytes)","timestamp":"2024-01-17T06:06:43.021Z"}
+{"level":"info","message":"Update file with ID 65a76e65b2eabdd7689af3a7 (data directory size 135 bytes)","timestamp":"2024-01-17T06:06:43.082Z"}
+{"level":"info","message":"Update file with ID 65a76e65b2eabdd7689af3a7 (data directory size 135 bytes)","timestamp":"2024-01-17T06:06:43.084Z"}
+{"level":"info","message":"Retrieve file with ID 65a76e65b2eabdd7689af3a7 (data directory size 135 bytes)","timestamp":"2024-01-17T06:07:21.277Z"}
+{"level":"info","message":"Retrieve file with ID 65a76e65b2eabdd7689af3a7 (data directory size 135 bytes)","timestamp":"2024-01-17T06:07:21.279Z"}

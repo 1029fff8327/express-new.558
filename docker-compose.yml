@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+    image: node:latest
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "8080:8080"
+    environment:
+      - MONGODB_URI=mongodb+srv://dergacevlesa91:<1029fff8327>@cluster0.b3fkd5o.mongodb.net/?retryWrites=true&w=majority
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
