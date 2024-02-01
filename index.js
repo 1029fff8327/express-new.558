@@ -10,7 +10,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const mongoURI = 'mongodb://localhost:27017/your-database-name'; 
+const mongoURI = 'mongodb://localhost:27017/program'; 
 
 mongoose.connect(mongoURI, {
   useNewUrlParser: true,
